@@ -1,0 +1,48 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE and OS
+.idea/
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+~$*
+
+# Runtime artifacts
+*.log
+logs/
+cache*.json*
+metrics.json
+data/
+data_backup*/
+secure_backups/
+backups/
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.backup
+*.rar
+*.zip
+
+# Generated reports and exports
+reports/
+exports/
+*.pdf
+*.xlsx

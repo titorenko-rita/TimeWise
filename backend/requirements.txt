@@ -1,0 +1,15 @@
+aiohttp==3.13.2
+APScheduler==3.11.2
+asyncpg==0.31.0
+httpx==0.28.1
+language_tool_python==2.9.5
+nltk==3.9.2
+prometheus_client==0.25.0
+pymorphy3 @ git+https://github.com/no-plagiarism/pymorphy2.git@6bb7e85a6c9a83814b1fc49a3b078ef0d8793739
+pymorphy3-dicts-ru==2.4.417150.4580142
+pytest==9.0.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.2.1
+reportlab==4.5.0
+rouge-score==0.1.2
+SQLAlchemy==2.0.45

@@ -1,0 +1,11 @@
+aiogram==3.4.1
+python-dotenv==1.0.1
+SQLAlchemy==2.0.25
+aiosqlite==0.20.0
+asyncpg
+APScheduler==3.11.2
+reportlab==4.5.0
+openpyxl==3.1.5
+prometheus-client
+
+
